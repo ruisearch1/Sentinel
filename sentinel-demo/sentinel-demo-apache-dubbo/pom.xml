@@ -15,7 +15,7 @@
         <dependency>
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo</artifactId>
-            <version>2.7.18</version>
+            <version>3.3.0</version>
         </dependency>
 
         <!-- Dubbo provides qos plugin and is enable by default. -->
@@ -24,14 +24,14 @@
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-all</artifactId>
-            <version>4.1.75.Final</version>
+            <version>4.1.124.Final</version>
         </dependency>
 
         <!-- Dependency for Spring Context -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-context-support</artifactId>
-            <version>5.3.15</version>
+            <version>6.2.10</version>
         </dependency>
 
         <!-- Sentinel adapter and transport -->
