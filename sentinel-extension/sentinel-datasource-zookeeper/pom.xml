@@ -13,7 +13,7 @@
     <packaging>jar</packaging>
 
     <properties>
-        <curator.version>5.1.0</curator.version>
+        <curator.version>5.4.0</curator.version>
     </properties>
 
     <dependencies>
